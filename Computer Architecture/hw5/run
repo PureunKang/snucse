@@ -1,2 +1,0 @@
-#!/bin/sh
-gcc -S -m32 -O0 main.c
